@@ -52,7 +52,7 @@ include 'koneksi.php';
         </tbody>
     </table>
 
-    <a href="form_InputKontak.php" class="btn btn-primary">Tambah Data</a>
+    <a href="Form_InputKontak.php" class="btn btn-primary">Tambah Data</a>
 
 </body>
 </html>

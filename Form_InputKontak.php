@@ -14,7 +14,7 @@ include 'koneksi.php'; // File koneksi database
 
     <h2 class="mb-4">Tambah Kontak Darurat</h2>
     
-    <form action="proses_simpan.php" method="POST">
+    <form action="Form_simpankontak.php" method="POST">
         <div class="mb-3">
             <label for="nama_mahasiswa" class="form-label">Nama Mahasiswa</label>
             <input type="text" class="form-control" id="nama_mahasiswa" name="nama_mahasiswa" required>
